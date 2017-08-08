@@ -1,0 +1,15 @@
+{
+    "name": "NodeJS Web AI Speech",
+    "description": "Simple AI Chatbot with Speech API",
+    "keywords": ["ai","bot"],
+    "env": {
+        "APIAI_TOKEN":{
+            "description":"API.ai Client access token",
+            "value":"665b7d9b84674d8f9973bf58a2096880"
+        },
+        "APIAI_SESSION_ID": {
+            "description":"An arbitrary String",
+            "value":"55112ggsdvqw144"
+        }
+    }
+}
